@@ -6,7 +6,7 @@ import os
 from PIL import Image
 
 # Path to your trained model
-MODEL_PATH = r"D:\Plant_Disease_Detection\Deploy\CNN_plantdiseases_model.keras"
+MODEL_PATH = r"CNN_plantdiseases_model.keras"
 
 # Load the model once using Streamlit caching
 @st.cache_resource
