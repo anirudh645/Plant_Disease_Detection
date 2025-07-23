@@ -67,7 +67,7 @@ This project implements a CNN-based plant disease detection system that can clas
 ### Local Installation (Optional)
 
 #### Prerequisites
-- Python 3.7+
+- Python 3.7+  < 3.10 (For smooth working of Tensorflow)
 - pip package manager
 
 #### Step 1: Clone the Repository
